@@ -110,3 +110,19 @@ button{
     padding: 0 12px;
     border-radius: 2px;
 }
+
+div.nav ul.right li{
+    padding-left: 15px;
+}
+
+div.nav ul.right li a{
+    color: #000;
+}
+
+i{
+    color: #666;
+}
+
+i a:hover{
+    color: #000;
+}
